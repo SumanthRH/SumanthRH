@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😄 I'm Sumanth, a master's student in the CSE department at UC San Diego. My primary interests are broadly in machine learning. 
+- 😄 I'm Sumanth, a master's student in the CSE department at UC San Diego. My primary interests are broadly in machine learning and software engineering. 
 - 🌱 I'm trying to learn what it takes to build machine learning systems in practice. 
 - ✨ I have a blog: https://sumanthrh.com
 - 📫 You can reach out to me at s1hegde@ucsd.edu
