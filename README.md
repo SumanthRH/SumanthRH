@@ -6,6 +6,8 @@
 - 📫 You can reach out to me at s1hegde@ucsd.edu
 - ⚡ Fun fact: Give me any song with a moderate tempo and I can whistle it :notes: 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumanthrh)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Sumanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumanthrh)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **SumanthRH/SumanthRH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
