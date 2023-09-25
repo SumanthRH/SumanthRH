@@ -2,7 +2,7 @@
 
 - 😄 I'm Sumanth, a master's student in the CSE department at UC San Diego. My primary interests are broadly in machine learning and software engineering.
 - 🚀 I'm passionate about language models, having worked on finetuning and evaluation, and addicted to compute 🤖
-- 💻 I love open source, and have contributed to 🤗 PEFT and Accelerate. 
+- 💻 I've made open-source contributions to 🤗 PEFT and Accelerate. 
 - 🌱 I'm trying to learn what it takes to build machine learning systems in practice. 
 - ✨ I have a blog: https://sumanthrh.com
 - 📫 You can reach out to me at s1hegde@ucsd.edu
