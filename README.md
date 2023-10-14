@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😄 I'm Sumanth, a master's student in the CSE department at UC San Diego. My primary interests are broadly in machine learning and software engineering.
+- 😄 I'm Sumanth, a master's student in the CSE department at UC San Diego. My primary interests are broadly in machine learning and systems engineering.
 - 🚀 I'm passionate about language models, having worked on finetuning and in-context learning, and addicted to compute 🤖
 - 💻 I've made open-source contributions to 🤗 PEFT and Accelerate. 
 - 🌱 I'm trying to learn what it takes to build machine learning systems in practice. 
