@@ -5,6 +5,9 @@
 - 💻 I've made open-source contributions to 🤗 PEFT and Accelerate. 
 - 🌱 I'm trying to learn what it takes to build machine learning systems in practice. 
 - ✨ I have a blog: https://sumanthrh.com
+- 💬 Some samples of my writing:
+  * Everything about distributed training and efficient finetuning: https://sumanthrh.com/post/distributed-and-efficient-finetuning/
+  * Everything about tokenization: https://github.com/SumanthRH/tokenization 
 - 📫 You can reach out to me at s1hegde@ucsd.edu
 - ⚡ Fun fact: Give me any song with a moderate tempo and I can whistle it :notes:
 - Other GitHub accounts: [c3-sumanthrh](https://github.com/c3-sumanthrh)
