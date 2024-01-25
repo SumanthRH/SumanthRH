@@ -12,9 +12,9 @@
 - ⚡ Fun fact: Give me any song with a moderate tempo and I can whistle it :notes:
 - Other GitHub accounts: [c3-sumanthrh](https://github.com/c3-sumanthrh)
   
+ ![Sumanth's github stats](https://github-readme-stats.vercel.app/api?username=sumanthrh&show_icons=true&theme=algolia)
 
 <!--
- ![Sumanth's github stats](https://github-readme-stats.vercel.app/api?username=sumanthrh&show_icons=true&theme=algolia)
 **SumanthRH/SumanthRH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
