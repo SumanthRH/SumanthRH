@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😄 I'm Sumanth, a master's student in the CSE department at UC San Diego. My primary interests are broadly in machine learning and systems engineering.
+- 😄 I'm Sumanth, a software engineer at Anyscale. My primary interests are broadly in machine learning and systems engineering.
 - 🚀 I'm trying to understand generative models, and have worked on finetuning and in-context learning for language models. Addicted to compute 🤖
 - 💻 I've made open-source contributions to 🤗 PEFT (Top-10 as of Jan '24) and Accelerate. 
 - 🌱 I'm trying to learn what it takes to build machine learning systems in practice. 
