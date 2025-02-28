@@ -9,8 +9,6 @@
   * Everything about distributed training and efficient finetuning: https://sumanthrh.com/post/distributed-and-efficient-finetuning/
   * Everything about tokenization (mini-course): https://github.com/SumanthRH/tokenization 
 - 📫 You can reach out to me at s1hegde@ucsd.edu
-- ⚡ Fun fact: Give me any song with a moderate tempo and I can whistle it :notes:
-- Other GitHub accounts: [c3-sumanthrh](https://github.com/c3-sumanthrh)
   
  <!-- ![Sumanth's github stats](https://github-readme-stats.vercel.app/api?username=sumanthrh&show_icons=true&theme=algolia)
 --!>
