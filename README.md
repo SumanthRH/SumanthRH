@@ -7,9 +7,7 @@
 - ✨ I have a blog: https://sumanthrh.com
 - 💬 Some samples of my writing: 
   * Everything about distributed training and efficient finetuning: https://sumanthrh.com/post/distributed-and-efficient-finetuning/
-  * Everything about tokenization (mini-course): https://github.com/SumanthRH/tokenization 
-- 📫 You can reach out to me at s1hegde@ucsd.edu
-  
+  * Everything about tokenization (mini-course): https://github.com/SumanthRH/tokenization   
  <!-- ![Sumanth's github stats](https://github-readme-stats.vercel.app/api?username=sumanthrh&show_icons=true&theme=algolia)
 --!>
 <!--
