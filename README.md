@@ -2,7 +2,7 @@
 
 - 😄 I'm Sumanth, a software engineer at Anyscale, working on post-training. My primary interests are broadly in machine learning and systems engineering.
 - 🚀 I'm trying to understand generative models, and have worked on finetuning and in-context learning for language models. Addicted to compute 🤖
-- 💻  I'm currently building [SkyThought](https://github.com/NovaSky-AI/SkyThought).
+- 💻  I'm currently working on [SkyThought](https://github.com/NovaSky-AI/SkyThought), and [SkyRL](https://github.com/NovaSky-AI/SkyRL).
 - 🌱 I'm trying to learn what it takes to build machine learning systems in practice. 
 - ✨ I have a blog: https://sumanthrh.com
 - 💬 Some samples of my writing: 
